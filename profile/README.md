@@ -14,7 +14,7 @@ At **Addition Plus**, we strive to [brief mission statement: e.g., "leverage cut
 
 Here are some of the core repositories driving innovation at **Addition Plus**:
 
-- **[TODO]**
+- **TODO**
 
 ---
 
@@ -22,12 +22,12 @@ Here are some of the core repositories driving innovation at **Addition Plus**:
 
 Our team focuses on building solutions in the following areas:
 
-- **[Artificial Intelligence]**
-- **[Backend Web Development]**
-- **[Frontend Web Development]**
-- **[DevOps]**
-- **[Cloud Migration]**
-- **[Automations]**
+- **Artificial Intelligence**
+- **Backend Web Development**
+- **Frontend Web Development**
+- **DevOps**
+- **Cloud Migration**
+- **Automations**
 
 ---
 
